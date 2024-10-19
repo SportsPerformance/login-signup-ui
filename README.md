@@ -36,10 +36,9 @@ This repository contains the **Login** and **Signup** user interface built with 
 ├── components/
 │   ├── Login.js
 │   ├── Register.js
-│   ├── PasswordStrengthMeter.js
-│
-├── styles/
 │   ├── LoginRegister.css
+│   ├── PasswordStrengthMeter.js
+│   ├── PasswordStrengthMeter.css
 │
 └── App.js
 ```
