@@ -83,10 +83,10 @@ This repository contains the **Login** and **Signup** user interface built with 
 ## Screenshots
 
 ### Login Page
-![Login Page Screenshot](https://path-to-image/login.png)
+![Login Page Screenshot](https://github.com/SportsPerformance/login-signup-ui/blob/signup-page/public/Screenshots/Login%20page.png)
 
 ### Signup Page
-![Signup Page Screenshot](https://path-to-image/signup.png)
+![Signup Page Screenshot](https://github.com/SportsPerformance/login-signup-ui/blob/signup-page/public/Screenshots/Signup%20page.png)
 
 ## Contributing
 
